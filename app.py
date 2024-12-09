@@ -4,10 +4,10 @@ import pandas as pd
 import plotly.express as px
 
 # Sayfa yapılandırması
-st.set_page_config(page_title="ReportQL", page_icon="📊", layout="wide")
+st.set_page_config(page_title="MertQL", page_icon="📊", layout="wide")
 
 # Başlık
-st.title("ReportQL - Mağaza Raporlama Aracı")
+st.title("MertQL - Mağaza Raporlama Aracı")
 
 with st.sidebar:
     st.header("Mağaza Veritabanı")
