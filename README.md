@@ -42,3 +42,4 @@ streamlit run app.py
 - Python 3.7+
 - SQL Server
 - SQL Server ODBC Driver
+# MertQl
