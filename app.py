@@ -209,4 +209,4 @@ if 'df' in st.session_state and not st.session_state['df'].empty:
         st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.markdown("ReportQL 2024")
+st.markdown("MertQL 2024")
