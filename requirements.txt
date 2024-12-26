@@ -1,7 +1,4 @@
-DB_SERVER=your_server_name
-DB_DATABASE=your_database_name
-DB_USERNAME=your_username
-DB_PASSWORD=your_passwordstreamlit==1.29.0
+streamlit==1.29.0
 plotly==5.18.0
 pandas==2.1.3
 transformers==4.35.2
